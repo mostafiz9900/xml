@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <student roll="101">
+        <firstname>Mostafizur</firstname>
+        <lastname>Rahman</lastname>
+        <nickname>MR</nickname>
+        <marks>90</marks>
+    </student>
+    <student roll="102">
+        <firstname>Sumaya</firstname>
+        <lastname>Afrin</lastname>
+        <nickname>SA</nickname>
+        <marks>85</marks>
+    </student>
+</class>
